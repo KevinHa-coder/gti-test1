@@ -4,3 +4,4 @@ tes
 ttttt
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 git clean
+test amend
