@@ -7,3 +7,4 @@ git clean
 test ame
 dnnnnnkfjadkfjasdfasdjkl:wq
 new line
+Fixed issue #1
